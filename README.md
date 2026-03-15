@@ -6,7 +6,7 @@
 This paper is a chapter in the book _High Dimensional Data Science_, edited by [Ansu Chatterjee](https://snigchat.github.io/) and published by Springer. The appendix available here contains supplementary material that is not included in the book.
 
 ## Links
-- [Appendix](appendix.pdf)
+- [Appendix](SAB_Appendix.pdf)
 
 ## Abstract
 
